@@ -1,0 +1,103 @@
+[{
+  "users":
+        [{
+            "user":"Ganesh",
+            "EmailAddress":"Ganesh@gmail.com",
+            "DepotName":"CSE",
+            "Role":"Adim",
+            "Active":true,
+            "InsertedBy":"Brian Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "user":"Brian Hart",
+            "EmailAddress":"Brianhart@gmail.com",
+            "DepotName":"Central Office",
+            "Role":"Adim",
+            "Active":true,
+            "InsertedBy":"Brian Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+
+        },
+        {
+            "user":"Selephi Themba",
+            "EmailAddress":"Selephithemba@gmail.com",
+            "DepotName":"Alrode Brewery",
+            "Role":"Adim",
+            "Active":true,
+            "InsertedBy":"Brian Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+
+        },
+        {
+            "user":"Pleter Nagel",
+            "EmailAddress":"Pleternagel@gmail.com",
+            "DepotName":"Rosslyn Brewery",
+            "Role":"Adim",
+            "Active":true,
+            "InsertedBy":"Brian Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+
+        },
+        {
+            "user":"Daniel Purchase",
+            "EmailAddress":"Danielpurchase@gmail.com",
+            "DepotName":"Central Office",
+            "Role":"Adim",
+            "Active":true,
+            "InsertedBy":"Brian Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+
+        },
+        {
+            "user":"Jonro Beukes",
+            "EmailAddress":"Jonrobeukes@gmail.com",
+            "DepotName":"Rosslyn Brewery",
+            "Role":"Adim",
+            "Active":true,
+            "InsertedBy":"Brian Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+
+        },
+        {
+            "user":"Johan Grobbelaar",
+            "EmailAddress":"Johangrobbelaar@gmail.com",
+            "DepotName":"Central Office",
+            "Role":"Editor",
+            "Active":true,
+            "InsertedBy":"Brian Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+
+        },
+        {
+            "user":"Ashley Dyers",
+            "EmailAddress":"Ashleydyers@gmail.com",
+            "DepotName":"Alrode Brewery",
+            "Role":"Adim",
+            "Active":true,
+            "InsertedBy":"Brian Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+
+        },
+        {
+            "user":"Noelene Nkosli",
+            "EmailAddress":"Noelenenkosli@gmail.com",
+            "DepotName":"Rosslyn Brewery",
+            "Role":"Adim",
+            "Active":true,
+            "InsertedBy":"Brian Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+
+        },
+        {
+            "user":"Handson Nkosi",
+            "EmailAddress":"Handsonnkosi@gmail.com",
+            "DepotName":"Alrode Brewery",
+            "Role":"Adim",
+            "Active":true,
+            "InsertedBy":"Brian Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+
+        },
+    ]
+}]
