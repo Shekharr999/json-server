@@ -102,7 +102,7 @@
         {
           "user":"Arnaldo Classen",
           "EmailAddress":"Arnaldoclassen@gmail.com",
-          "DepotName:":"Newlands Brewery",
+          "DepotName":"Newlands Brewery",
           "Role":"Editor",
           "Active":false,
           "InsertedBy":"Brian Hart",
@@ -112,7 +112,7 @@
         {
           "user":"Sraddha Atyam",
           "EmailAddress":"Sraddhaatyam@gmail.com",
-          "DepotName:":"Central office",
+          "DepotName":"Central office",
           "Role":"User",
           "Active":true,
           "InsertedBy":"Brian Hart",
@@ -122,7 +122,7 @@
         {
           "user":"Bala Shekhar",
           "EmailAddress":"Balashekhar@gmail.com",
-          "DepotName:":"Ibayi Brewery",
+          "DepotName":"Ibayi Brewery",
           "Role":"User",
           "Active":true,
           "InsertedBy":"Brian Hart",
@@ -132,7 +132,7 @@
         {
           "user":"Chandra Mouli",
           "EmailAddress":"Chandramouli@gmail.com",
-          "DepotName:":"Prospection Brewery",
+          "DepotName":"Prospection Brewery",
           "Role":"Editor",
           "Active":false,
           "InsertedBy":"Brian Hart",
@@ -142,7 +142,7 @@
         {
           "user":"Suryanarayan Reddy",
           "EmailAddress":"Suryanarayanreddy@gmail.com",
-          "DepotName:":"Prospection Brewery",
+          "DepotName":"Prospection Brewery",
           "Role":"User",
           "Active":false,
           "InsertedBy":"Brian Hart",
