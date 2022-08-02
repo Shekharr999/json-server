@@ -43,7 +43,7 @@
             "user":"Daniel Purchase",
             "EmailAddress":"Danielpurchase@gmail.com",
             "DepotName":"Central Office",
-            "Role":"Adim",
+            "Role":"Editor",
             "Active":true,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
@@ -53,7 +53,7 @@
             "user":"Jonro Beukes",
             "EmailAddress":"Jonrobeukes@gmail.com",
             "DepotName":"Rosslyn Brewery",
-            "Role":"Adim",
+            "Role":"Editor",
             "Active":true,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
@@ -73,7 +73,7 @@
             "user":"Ashley Dyers",
             "EmailAddress":"Ashleydyers@gmail.com",
             "DepotName":"Alrode Brewery",
-            "Role":"Adim",
+            "Role":"User",
             "Active":true,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
@@ -83,7 +83,7 @@
             "user":"Noelene Nkosli",
             "EmailAddress":"Noelenenkosli@gmail.com",
             "DepotName":"Rosslyn Brewery",
-            "Role":"Adim",
+            "Role":"User",
             "Active":true,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
@@ -93,11 +93,61 @@
             "user":"Handson Nkosi",
             "EmailAddress":"Handsonnkosi@gmail.com",
             "DepotName":"Alrode Brewery",
-            "Role":"Adim",
+            "Role":"User",
             "Active":true,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
 
+        },
+        {
+          "user":"Arnaldo Classen",
+          "EmailAddress":"Arnaldoclassen@gmail.com",
+          "DeotName:":"Newlands Brewery",
+          "Role":"User",
+          "Active":false,
+          "InsertedBy":"Brian Hart",
+          "ModifiedDate":"2/08/2022 12:30:26 PM"
+          
+        },
+        {
+          "user":"Sraddha Atyam",
+          "EmailAddress":"Sraddhaatyam@gmail.com",
+          "DeotName:":"Central office",
+          "Role":"User",
+          "Active":false,
+          "InsertedBy":"Brian Hart",
+          "ModifiedDate":"2/08/2022 12:30:26 PM"
+          
+        },
+        {
+          "user":"Bala Shekhar",
+          "EmailAddress":"Balashekhar@gmail.com",
+          "DeotName:":"Ibayi Brewery",
+          "Role":"User",
+          "Active":false,
+          "InsertedBy":"Brian Hart",
+          "ModifiedDate":"2/08/2022 12:30:26 PM"
+          
+        },
+        {
+          "user":"Chandra Mouli",
+          "EmailAddress":"Chandramouli@gmail.com",
+          "DeotName:":"Prospection Brewery",
+          "Role":"User",
+          "Active":false,
+          "InsertedBy":"Brian Hart",
+          "ModifiedDate":"2/08/2022 12:30:26 PM"
+          
+        },
+        {
+          "user":"Suryanarayan Reddy",
+          "EmailAddress":"Suryanarayanreddy@gmail.com",
+          "DeotName:":"Prospection Brewery",
+          "Role":"User",
+          "Active":false,
+          "InsertedBy":"Brian Hart",
+          "ModifiedDate":"2/08/2022 12:30:26 PM"
+          
         }
     ]
 }
