@@ -13,7 +13,7 @@
             "user":"Brian Hart",
             "EmailAddress":"Brianhart@gmail.com",
             "DepotName":"Central Office",
-            "Role":"Admin",
+            "Role":"user",
             "Active":true,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
@@ -24,7 +24,7 @@
             "EmailAddress":"Selephithemba@gmail.com",
             "DepotName":"Alrode Brewery",
             "Role":"Admin",
-            "Active":true,
+            "Active":false,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
 
@@ -43,8 +43,8 @@
             "user":"Daniel Purchase",
             "EmailAddress":"Danielpurchase@gmail.com",
             "DepotName":"Central Office",
-            "Role":"Editor",
-            "Active":true,
+            "Role":"user",
+            "Active":false,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
 
@@ -53,8 +53,8 @@
             "user":"Jonro Beukes",
             "EmailAddress":"Jonrobeukes@gmail.com",
             "DepotName":"Rosslyn Brewery",
-            "Role":"Editor",
-            "Active":true,
+            "Role":"user",
+            "Active":false,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
 
@@ -83,8 +83,8 @@
             "user":"Noelene Nkosli",
             "EmailAddress":"Noelenenkosli@gmail.com",
             "DepotName":"Rosslyn Brewery",
-            "Role":"User",
-            "Active":true,
+            "Role":"Admin",
+            "Active":false,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
 
@@ -102,8 +102,8 @@
         {
           "user":"Arnaldo Classen",
           "EmailAddress":"Arnaldoclassen@gmail.com",
-          "DeotName:":"Newlands Brewery",
-          "Role":"User",
+          "DepotName:":"Newlands Brewery",
+          "Role":"Editor",
           "Active":false,
           "InsertedBy":"Brian Hart",
           "ModifiedDate":"2/08/2022 12:30:26 PM"
@@ -112,9 +112,9 @@
         {
           "user":"Sraddha Atyam",
           "EmailAddress":"Sraddhaatyam@gmail.com",
-          "DeotName:":"Central office",
+          "DepotName:":"Central office",
           "Role":"User",
-          "Active":false,
+          "Active":true,
           "InsertedBy":"Brian Hart",
           "ModifiedDate":"2/08/2022 12:30:26 PM"
           
@@ -122,9 +122,9 @@
         {
           "user":"Bala Shekhar",
           "EmailAddress":"Balashekhar@gmail.com",
-          "DeotName:":"Ibayi Brewery",
+          "DepotName:":"Ibayi Brewery",
           "Role":"User",
-          "Active":false,
+          "Active":true,
           "InsertedBy":"Brian Hart",
           "ModifiedDate":"2/08/2022 12:30:26 PM"
           
@@ -132,8 +132,8 @@
         {
           "user":"Chandra Mouli",
           "EmailAddress":"Chandramouli@gmail.com",
-          "DeotName:":"Prospection Brewery",
-          "Role":"User",
+          "DepotName:":"Prospection Brewery",
+          "Role":"Editor",
           "Active":false,
           "InsertedBy":"Brian Hart",
           "ModifiedDate":"2/08/2022 12:30:26 PM"
@@ -142,7 +142,7 @@
         {
           "user":"Suryanarayan Reddy",
           "EmailAddress":"Suryanarayanreddy@gmail.com",
-          "DeotName:":"Prospection Brewery",
+          "DepotName:":"Prospection Brewery",
           "Role":"User",
           "Active":false,
           "InsertedBy":"Brian Hart",
