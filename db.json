@@ -4,7 +4,7 @@
             "user":"Ganesh",
             "EmailAddress":"Ganesh@gmail.com",
             "DepotName":"CSE",
-            "Role":"Adim",
+            "Role":"Admin",
             "Active":true,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
@@ -13,7 +13,7 @@
             "user":"Brian Hart",
             "EmailAddress":"Brianhart@gmail.com",
             "DepotName":"Central Office",
-            "Role":"Adim",
+            "Role":"Admin",
             "Active":true,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
@@ -23,7 +23,7 @@
             "user":"Selephi Themba",
             "EmailAddress":"Selephithemba@gmail.com",
             "DepotName":"Alrode Brewery",
-            "Role":"Adim",
+            "Role":"Admin",
             "Active":true,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
@@ -33,7 +33,7 @@
             "user":"Pleter Nagel",
             "EmailAddress":"Pleternagel@gmail.com",
             "DepotName":"Rosslyn Brewery",
-            "Role":"Adim",
+            "Role":"Editor",
             "Active":true,
             "InsertedBy":"Brian Hart",
             "ModifiedDate":"2/08/2022 12:30:26 PM"
